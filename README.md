@@ -7,6 +7,8 @@ Curso de Introdução ao Desenvolvimento de Jogos - Michigan State University
 
 > Build WebGL do jogo
 
+> É apenas uma simulação, as proporções e velocidades dos plantes e estrelas não correspondem ao ambiente real.
+
 # Comandos
 - Clique em algum planeta ou estrela para vê-los de perto
 - Ao clicar em algum planeta ou estrela no minimapa tem o mesmo efeito da vista principal
